@@ -27,27 +27,29 @@ Additionally, this project utilizes locally deployed models using **Ollama**:
 - **Models Used**:
   - LLaMA 3B
   - Gemini 2 7B
- 
-  - 
-Before running the code, make sure to install the following dependencies:
+
+
+### Dependencies Installation
+
+Before running the code, ensure that you install the necessary dependencies:
 
 1. **VRX**: A robotics simulation framework that allows testing and development in virtual environments.
+   - Clone the repository and follow the installation instructions:
+     ```bash
+     git clone https://github.com/osrf/vrx.git
+     ```
+
 2. **OpenAI ROS**: The OpenAI Robotics library for integrating with ROS (Robot Operating System).
+   - Clone the repository and follow the installation instructions:
+     ```bash
+     git clone https://github.com/edowson/openai_ros.git
+     ```
 
-You can install these packages using the following commands:
+## Running the Code
 
-```bash
-# Install VRX
-git clone https://github.com/osrf/vrx.git
-# Follow the installation instructions in the VRX repository
+Once the required dependencies are installed and the models are set up, you can execute the program by running the following command:
 
-# Install OpenAI ROS
-git clone https://github.com/edowson/openai_ros.git
-# Follow the installation instructions in the OpenAI ROS repository
-
-##Running the Code
-After installing the required dependencies and ensuring that the models are properly set up, you can run the main script to execute the program:
 ```bash
 python main.py
-
+```
 
