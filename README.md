@@ -1,6 +1,7 @@
 # LLM4SAC
-
-![Cover Image](./gif/usv_docking_mission.png)
+---
+Autonomous docking task in a real-world scenario. The USV begins from the pre-docking zone and autonomously maneuvers towards the docker
+<img src="./gif/cover_image.png" width="800"/>
 ---
 ## Real-World Experiment Results 
 
