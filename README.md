@@ -21,6 +21,14 @@ This project was developed and tested on the following system:
 - **Operating System**: Ubuntu 20.04
 - **ROS Version**: Noetic
 
+
+Additionally, this project utilizes locally deployed models using **Ollama**:
+
+- **Models Used**:
+  - LLaMA 3B
+  - Gemini 2 7B
+ 
+  - 
 Before running the code, make sure to install the following dependencies:
 
 1. **VRX**: A robotics simulation framework that allows testing and development in virtual environments.
@@ -36,3 +44,10 @@ git clone https://github.com/osrf/vrx.git
 # Install OpenAI ROS
 git clone https://github.com/edowson/openai_ros.git
 # Follow the installation instructions in the OpenAI ROS repository
+
+##Running the Code
+After installing the required dependencies and ensuring that the models are properly set up, you can run the main script to execute the program:
+```bash
+python main.py
+
+
