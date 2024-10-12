@@ -1,5 +1,7 @@
 # LLM4SAC
 
+![Cover Image](./gif/cover_image.png)
+---
 ## Real-World Experiment Results 
 
 We conducted 20 real-world experiments using our algorithm, achieving 16 successes and 4 failures. Below, you can see a visual demonstration of both the successful and failed experiments.
