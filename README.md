@@ -1,9 +1,11 @@
 # LLM4SAC
 ---
 Autonomous docking task in a real-world scenario. The USV begins from the pre-docking zone and autonomously maneuvers towards the docker
-<!-- 这是一个空行，保持段落分隔 -->
+
+
 <img src="./gif/usv_docking_mission.png" width="1000"/>
-<!-- 这是一个空行，保持段落分隔 -->
+
+
 ---
 ## Real-World Experiment Results 
 
