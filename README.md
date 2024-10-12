@@ -1,6 +1,6 @@
 # LLM4SAC
 
-![Cover Image](./gif/cover_image.png)
+![Cover Image](./gif/usv_docking_mission.png)
 ---
 ## Real-World Experiment Results 
 
