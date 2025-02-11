@@ -25,7 +25,7 @@ This project was developed and tested on the following system:
 Additionally, this project utilizes locally deployed models using **Ollama**:
 
 - **Models Used**:
-  - LLaMA 3B
+  - LLaMA 3 8B
   - Gemini 2 7B
 
 
